@@ -1,0 +1,27 @@
+{
+  "name": "solido",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josearrais/solido.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josearrais/solido/issues"
+  },
+  "homepage": "https://github.com/josearrais/solido#readme",
+  "description": "",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "ethers": "^5.0.0",
+    "hardhat": "^2.22.8"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
