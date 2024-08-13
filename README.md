@@ -16,3 +16,4 @@ Clone this repository so that you can:
 - Run `npm install` to set up all the dependencies
 - Fill the `.env` file with your own keys
 - Run `npx hardhat run scripts/deploy.js` to deploy the contract to the Ethereum testnet
+- Run `npx hardhat run scripts/update.js` to read and write a new message to the smart contract
