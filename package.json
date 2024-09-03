@@ -1,5 +1,5 @@
 {
-  "name": "solido",
+  "name": "smart-contract-example",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,14 +7,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/josearrais/solido.git"
+    "url": "git+https://github.com/josearrais/smart-contract-example.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/josearrais/solido/issues"
+    "url": "https://github.com/josearrais/smart-contract-example/issues"
   },
-  "homepage": "https://github.com/josearrais/solido#readme",
+  "homepage": "https://github.com/josearrais/smart-contract-example#readme",
   "description": "",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.2.3",
