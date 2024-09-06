@@ -1,6 +1,6 @@
-# Solido
+# Deploy Your First Smart Contract
 
-This project demonstrates how to implement a lightweight smart contract on the Ethereum testnet. It uses Hardhat as the development environment, Ethers.js to interact with the Ethereum network and Ankr to make requests to the Ethereum chain.
+This project demonstrates how to simply implement a smart contract on the Ethereum testnet. It uses Hardhat as the development environment, Ethers.js to interact with the Ethereum network and Ankr to make requests to the Ethereum chain.
 
 ## Prerequisites
 
